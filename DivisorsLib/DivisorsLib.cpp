@@ -1,7 +1,6 @@
 #include <iostream>
 #include <vector>
 #include <cmath>
-#include <algorithm>
 
 std::vector<unsigned long long> divisors(unsigned long long number) {
     std::vector<unsigned long long> result;
